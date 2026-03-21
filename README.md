@@ -3,8 +3,6 @@
 [![Profile stats](https://github-readme-stats.vercel.app/api?username=danrotaru)](https://danrotaru.github.io)
 
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danrotaru&theme=blue-green)](https://danrotaru.github.io)
-
 
 <!--
 **DanRotaru/danrotaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
