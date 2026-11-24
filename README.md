@@ -4,7 +4,7 @@ const Developer = {
   pronouns: ["he", "him"],
 
   philosophy: "Build things that are fast, maintainable, and enjoyable to use.",
-  role: "Full-Stack Web Developer",
+  role: "Full-Stack Engineer",
 
   preferredTechStack: ["Vue", "React", "Express", "Nuxt.js", "Next.js", "MongoDB"],
   languages: ["JavaScript", "TypeScript", "PHP", "SQL", "C#"],
